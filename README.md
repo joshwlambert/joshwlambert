@@ -13,4 +13,4 @@ I'm currently working at the [The London School of Hygiene & Tropical Medicine (
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm a fan of all things [Monocle](https://monocle.com/)
 
-![snake gif](https://github.com/joshwlambert/joshwlambert/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/joshwlambert/joshwlambert/blob/output/github-snake.svg)
