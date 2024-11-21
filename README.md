@@ -2,7 +2,9 @@
 
 I'm Josh, an evolutionary biologist 🧬 🐸, turned research software engineer 💻.
 
-I'm currently working at the [The London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/) on the [Epiverse initiative](https://data.org/initiatives/epiverse/), and finishing my PhD at the [University of Groningen](https://www.rug.nl/?lang=en). My PhD is on the topic of developing novel phylogenetic models to understand macroevolutionary patterns on islands ⛰️.
+I'm currently working at the [The London School of Hygiene & Tropical Medicine (LSHTM)](https://www.lshtm.ac.uk/) on the [Epiverse initiative](https://data.org/initiatives/epiverse/).
+
+I recently finished my PhD on the topic of developing novel phylogenetic models to understand macroevolutionary patterns on islands ⛰️ at the [University of Groningen](https://www.rug.nl/?lang=en). My PhD thesis can be found at the [RUG research archive](https://research.rug.nl/en/publications/on-the-dynamics-of-biodiversity-on-insular-systems).
 
 - 🔭 I’m currently working on: Epiverse by day, macroevolution and island biogeography by night.
 - 🌱 I’m currently learning: most things, but mainly epidemiology of infectious diseases.
